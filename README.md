@@ -34,4 +34,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Created by Dhruv Hingu
 
-If you find this project useful, please consider giving it a star on GitHub!
+If you find this project useful, please consider giving it a star⭐ on GitHub!
